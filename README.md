@@ -21,7 +21,7 @@ Replace the STK600 USB driver with the generic [LibusbK](https://libusbk.sourcef
 
 Add the following parameters in the "programmers.txt" file.
 
-```C++
+```
 stk600.name=Atmel STK600 development board
 stk600.communication=usb
 stk600.protocol=stk600
@@ -33,9 +33,9 @@ stk600.program.extra_params=
 
 The "programmers.txt" file is generally located in:
 
-linux : ~/.arduino15/packages/arduino/hardware/avr/<platform version>/programmers.txt
+linux : ```~/.arduino15/packages/arduino/hardware/avr/<platform version>/programmers.txt```
 
-Windows : C:\Users\<user name>\AppData\Local\Arduino15\packages\arduino\hardware\avr\<platform version>\programmers.txt
+Windows : ```C:\Users\<user name>\AppData\Local\Arduino15\packages\arduino\hardware\avr\<platform version>\programmers.txt```
 
 # Upload program
 
