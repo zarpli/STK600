@@ -31,11 +31,11 @@ stk600.program.tool.default=avrdude
 stk600.program.extra_params=
 ```
 
-The "programmers.txt" file is generally located in:
+The location of "programmers.txt" file depends on your operating system, for example for Linux and Windows respectively:
 
-linux : ```~/.arduino15/packages/arduino/hardware/avr/<platform version>/programmers.txt```
+```~/.arduino15/packages/arduino/hardware/avr/<platform version>/programmers.txt```
 
-Windows : ```C:\Users\<user name>\AppData\Local\Arduino15\packages\arduino\hardware\avr\<platform version>\programmers.txt```
+```C:\Users\<user name>\AppData\Local\Arduino15\packages\arduino\hardware\avr\<platform version>\programmers.txt```
 
 # Upload program
 
