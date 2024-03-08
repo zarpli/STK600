@@ -39,6 +39,6 @@ Windows : C:\Users\<user name>\AppData\Local\Arduino15\packages\arduino\hardware
 
 # Upload program
 
-use Upload Using Programmer in Sketch tab ( Ctrl + Shift + U)
+use Upload Using Programmer in Sketch tab (Ctrl + Shift + U)
 
 <p align="center"><img src=/images/upload.png></p>
