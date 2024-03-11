@@ -5,9 +5,14 @@ This information allows you to use the [STK600](https://ww1.microchip.com/downlo
 
 # Linux rules
 
-Download the Linux udev [rules](rules/90-atmel-stk600.rules) and copy the file to /etc/udev/rules.d/ you can use the following command:
+Download the Linux udev [rules](rules/90-atmel-stk600.rules) and copy the file to /etc/udev/rules.d/ 
 
+you can use the following commands:
+
+```
+wget https://github.com/zarpli/STK600/blob/main/rules/90-atmel-stk600.rules
 sudo cp 90-atmel-stk600.rules /etc/udev/rules.d/
+```
 
 after this file is installed, physically unplug and reconnect STK600.
 
