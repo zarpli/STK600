@@ -3,7 +3,7 @@
 This information allows you to use the [STK600](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/STK600-AVR-Flash-MCU-Starter-Kit-Users-Guide-DS40001904.pdf) development system as an ISP programmer within the Arduino IDE.
 <p align="center"><img src=/images/STK600.webp></p>
 
-# Linux Driver
+# Linux rules
 
 Download the Linux udev [rules](rules/90-atmel-stk600.rules) and copy the file to /etc/udev/rules.d/ you can use the following command:
 
