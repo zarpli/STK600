@@ -10,7 +10,7 @@ Download the Linux udev [rules](rules/90-atmel-stk600.rules) and copy the file t
 you can use the following commands:
 
 ```
-wget https://github.com/zarpli/STK600/blob/main/rules/90-atmel-stk600.rules
+wget https://github.com/zarpli/STK600/raw/master/rules/90-atmel-stk600.rules
 sudo cp 90-atmel-stk600.rules /etc/udev/rules.d/
 ```
 
