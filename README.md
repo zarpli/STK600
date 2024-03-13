@@ -47,3 +47,7 @@ The location of "programmers.txt" file depends on your operating system, for exa
 use Upload Using Programmer in Sketch tab (Ctrl+Shift+U)
 
 <p align="center"><img src=/images/upload.png></p>
+
+## YouTube Overview
+
+[![STK600 Arduino Programmer](http://img.youtube.com/vi/ZAMMWYC-R0w/0.jpg)](http://www.youtube.com/watch?v=ZAMMWYC-R0w "STK600 Arduino Programmer")
