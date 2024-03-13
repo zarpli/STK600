@@ -22,7 +22,7 @@ Replace the STK600 USB driver with the generic [LibusbK](https://libusbk.sourcef
 
 <p align="center"><img src=/images/device_manager.png></p>
 
-# Complement the Arduino IDE
+# Complement the Arduino Core AVR
 
 Add the following parameters in the "programmers.txt" file.
 
